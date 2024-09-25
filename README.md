@@ -14,14 +14,12 @@ HTML: Used for structuring the web pages.<br>
 CSS: Used for styling the pages.<br>
 Bootstrap: Used for responsive design and pre-built components like buttons, forms, and layout grids.<br>
 
-## Installation
-Clone the repository:<br>
-git clone https://github.com/yourusername/task-manager.git <br>
-
-Navigate to the project directory: <br>
-cd task-manager
-Open the index.html file in your browser to view and use the application.
 
 ## Screenshots
 ![Screenshot (67)](https://github.com/user-attachments/assets/a801fb39-1ffc-49f3-8a1c-37730032def8)
 ![Screenshot (68)](https://github.com/user-attachments/assets/3ec04599-7039-4666-ad4a-048126bf5ee2)
+
+## Clone this project :
+```bash
+ git clone https://github.com/SupreethRagavendra/KASC-Hall-Management-App.git
+```
