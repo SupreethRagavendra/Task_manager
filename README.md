@@ -10,7 +10,7 @@ A simple Task Manager application created using HTML, CSS, and Bootstrap. This a
 
 
 ## Technologies Used
-HTML: Used for structuring the web pages.
+HTML: Used for structuring the web pages.<br>
 CSS: Used for styling the pages.
 Bootstrap: Used for responsive design and pre-built components like buttons, forms, and layout grids.
 
