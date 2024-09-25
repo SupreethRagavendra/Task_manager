@@ -16,9 +16,9 @@ Bootstrap: Used for responsive design and pre-built components like buttons, for
 
 ## Installation
 Clone the repository:<br>
-git clone https://github.com/yourusername/task-manager.git<br>
+git clone https://github.com/yourusername/task-manager.git <br>
 
-Navigate to the project directory:<br>
+Navigate to the project directory: <br>
 cd task-manager
 Open the index.html file in your browser to view and use the application.
 
