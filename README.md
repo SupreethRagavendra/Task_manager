@@ -1,10 +1,15 @@
 Task Manager
-A simple Task Manager application created using HTML, CSS, and Bootstrap to help users organize and manage their daily tasks efficiently.
+A simple Task Manager application created using HTML, CSS, and Bootstrap. This application helps users organize and manage their daily tasks efficiently by providing an intuitive and responsive interface.
 
+Features
+Add, edit, and delete tasks
+Mark tasks as completed
+Responsive design for mobile and desktop
+User-friendly interface
 Technologies Used
-HTML: For structuring the web pages.
-CSS: For styling and making the page visually appealing.
-Bootstrap: For responsive design and styling components like buttons, forms, and layouts.
+HTML: Used for structuring the web pages.
+CSS: Used for styling the pages.
+Bootstrap: Used for responsive design and pre-built components like buttons, forms, and layout grids.
 Installation
 Clone the repository:
 
@@ -16,7 +21,7 @@ Navigate to the project directory:
 bash
 Copy code
 cd task-manager
-Open the index.html file in your browser to view the application.
+Open the index.html file in your browser to view and use the application.
 
 Screenshots
 ![Screenshot (67)](https://github.com/user-attachments/assets/a801fb39-1ffc-49f3-8a1c-37730032def8)
