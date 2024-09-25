@@ -30,7 +30,7 @@ A simple Task Manager application created using HTML, CSS, and Bootstrap. This a
 
 2. Navigate to the project directory:
     ```bash
-    cd Task_manage
+    cd Task_manager
     ```
 
 --- 
