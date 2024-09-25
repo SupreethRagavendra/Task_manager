@@ -23,3 +23,9 @@ Bootstrap: Used for responsive design and pre-built components like buttons, for
 ```bash
  git clone https://github.com/SupreethRagavendra/KASC-Hall-Management-App.git
 ```
+```bash
+Navigate to the project directory:
+
+
+cd task-manager
+```
